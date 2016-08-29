@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../matrix-common/cassandra/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/cassandra/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/checkpoint/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/common-connector/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/common-connector/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/common/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/event/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/event/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/jersey/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/json/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/json/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/kafka/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/logger/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/logger/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/persistence/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/schema/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/schema/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/trace/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../matrix-common/zookeeper/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
